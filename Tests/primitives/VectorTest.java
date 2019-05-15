@@ -24,6 +24,8 @@ class VectorTest {
 
     @Test
     void normalize() {
+
+        
     }
 
     @Test
